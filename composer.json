@@ -1,6 +1,6 @@
 {
     "name": "rodrigo-balest/html",
-    "description": "",
+    "description": "Overrides Laravel 4.2 FormBuilder, adding support to array of checkboxes",
     "authors": [
         {
             "name": "Rodrigo Balest",

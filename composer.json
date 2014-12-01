@@ -1,0 +1,20 @@
+{
+    "name": "rodrigo-balest/html",
+    "description": "",
+    "authors": [
+        {
+            "name": "Rodrigo Balest",
+            "email": "r.balest@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/html": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "RodrigoBalest\\Html": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

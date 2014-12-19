@@ -8,7 +8,7 @@ In your **"composer.json"** file, add the following line:
 
 In your **"app/config/app.php"** file, substitute the original provider `'Illuminate\Html\HtmlServiceProvider',` for the following:
 
-    'RodrigoBalest\Html\HtmlServiceProvider,'
+    'RodrigoBalest\Html\HtmlServiceProvider',
 
 That's it!
 
